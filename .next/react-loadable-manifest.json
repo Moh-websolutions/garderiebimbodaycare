@@ -1,0 +1,44 @@
+{
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "./en-US/common": [
+    {
+      "id": "./locales/en-US/common.json",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "./en-US/common.json": [
+    {
+      "id": "./locales/en-US/common.json",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "./en/common": [
+    {
+      "id": "./locales/en/common.json",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./en/common.json": [
+    {
+      "id": "./locales/en/common.json",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./fr/common": [
+    {
+      "id": "./locales/fr/common.json",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "./fr/common.json": [
+    {
+      "id": "./locales/fr/common.json",
+      "file": "static/chunks/2.js"
+    }
+  ]
+}
