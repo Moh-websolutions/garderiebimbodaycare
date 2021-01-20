@@ -44,8 +44,8 @@ export default function Intro(props) {
                             <div className="col-lg-12">
                                 <div className="hero__caption">
                                    <div className="slider-btns">
-                                      <Link href="https://www.bimbodaycare.ca/"><a data-animation="fadeInLeft" data-delay="1.0s" className="btn radius-btn mx-3 my-2">English</a></Link>
-                                      <Link href="https://www.garderiebimbo.ca/"><a data-animation="fadeInLeft" data-delay="1.0s" className="btn radius-btn mx-3 my-2">Français</a></Link>
+                                      <Link href="https://bimbodaycare.vercel.app/"><a data-animation="fadeInLeft" data-delay="1.0s" className="btn radius-btn mx-3 my-2">English</a></Link>
+                                      <Link href="https://garderiebimbo.vercel.app/"><a data-animation="fadeInLeft" data-delay="1.0s" className="btn radius-btn mx-3 my-2">Français</a></Link>
                                    </div>
                                 </div>
                             </div> 
